@@ -1,0 +1,2 @@
+INFO    2021-06-16 19:14:21,649 [main] utilities.TestLogs  - This is the log for tests
+ERROR   2021-06-16 19:14:21,651 [main] utilities.TestLogs  - errors will be printed here
